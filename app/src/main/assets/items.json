@@ -1,0 +1,101 @@
+[
+  {
+    "id":1,
+    "category":"Vegetables",
+    "img":"https://cdn-icons-png.flaticon.com/128/2346/2346952.png",
+    "name":"Broccoli",
+    "dec":"Broccoli is a cruciferous vegetable rich in nutrients. Possible health benefits include lowering cancer risk and boosting the immune system.",
+    "cart":false,
+    "dicount":true,
+    "qty":1,
+    "prise":30
+  },
+  {
+    "id":2,
+    "category":"Vegetables",
+    "img":"https://cdn-icons-png.flaticon.com/128/1571/1571192.png",
+    "name":"Corn",
+    "dec":"Corn is mainly composed of carbs and fairly high in fiber. It also packs a decent amount of low-quality protein.",
+    "cart":false,
+    "dicount":false,
+    "qty":1,
+    "prise":20
+  },
+  {
+    "id":3,
+    "category":"Vegetables",
+    "img":"https://cdn-icons-png.flaticon.com/128/4056/4056860.png",
+    "name":"Carrot",
+    "dec":"Carrots contain vitamin K and small amounts of calcium and phosphorus. All of these contributeTrusted Source to bone health and may help prevent osteoporosis.",
+    "cart":false,
+    "dicount":false,
+    "qty":1,
+    "prise":70
+  },
+  {
+    "id":4,
+    "category":"Fruits",
+    "img":"https://cdn-icons-png.flaticon.com/128/604/604230.png",
+    "name":"Apple",
+    "dec":"Apples are rich in fiber, vitamins, and minerals, all of which benefit human health. They also provideTrusted Source an array of antioxidants.",
+    "cart":false,
+    "dicount":true,
+    "qty":1,
+    "prise":80
+  },
+  {
+    "id":5,
+    "category":"Fruits",
+    "img":"https://cdn-icons-png.flaticon.com/128/765/765560.png",
+    "name":"Grapes",
+    "dec":"A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis. Grapes are a non-climacteric type of fruit, generally occurring in clusters.",
+    "cart":false,
+    "dicount":false,
+    "qty":1,
+    "prise":66
+  },
+  {
+    "id":6,
+    "category":"Fruits",
+    "img":"https://cdn-icons-png.flaticon.com/128/135/135620.png",
+    "name":"Orange",
+    "dec":"Oranges are a type of healthy, low calorie, highly nutritious citrus fruit. As part of a healthful and varied diet, oranges contribute to strong.",
+    "cart":false,
+    "dicount":true,
+    "qty":1,
+    "prise":66
+  },
+  {
+    "id":7,
+    "category":"Sweet",
+    "img":"https://cdn-icons-png.flaticon.com/128/1041/1041345.png",
+    "name":"Donut",
+    "dec":"A doughnut or donut is a type of food made from leavened fried dough. It is popular in many countries and is prepared in various forms as a sweet snack.",
+    "cart":false,
+    "dicount":true,
+    "qty":1,
+    "prise":100
+  },
+  {
+    "id":8,
+    "category":"Sweet",
+    "img":"https://cdn-icons-png.flaticon.com/128/3600/3600658.png",
+    "name":"Laddu",
+    "dec":"Laddu or laddoo is a spherical sweet from the Indian subcontinent made of various ingredients and sugar syrup or jaggery.",
+    "cart":false,
+    "dicount":true,
+    "qty":1,
+    "prise":100
+  },
+  {
+    "id":9,
+    "category":"Snacks",
+    "img":"https://cdn-icons-png.flaticon.com/128/3428/3428841.png",
+    "name":"French fries",
+    "dec":"French fries, chips, finger chips, french-fried potatoes, or simply fries, are batonnet or allumette-cut deep-fried potatoes of disputed origin from Belgium or France.",
+    "cart":false,
+    "dicount":false,
+    "qty":1,
+    "prise":100
+  }
+]

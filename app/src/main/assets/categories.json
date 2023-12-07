@@ -1,0 +1,18 @@
+[
+    {
+        "category":"Vegetables",
+        "img":"https://cdn-icons-png.flaticon.com/128/2153/2153788.png"
+    },
+    {
+        "category":"Fruits",
+        "img":"https://cdn-icons-png.flaticon.com/128/1625/1625099.png"
+    },
+    {
+        "category":"Snacks",
+        "img":"https://cdn-icons-png.flaticon.com/128/2553/2553692.png"
+    },
+    {
+        "category":"Sweet",
+        "img":"https://cdn-icons-png.flaticon.com/128/2289/2289876.png"
+    }
+]
